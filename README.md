@@ -8,7 +8,7 @@ Basic traffic light simulation using Arduino
 ![Traffic Light Demo](images/working-demo3.jpg)
 ![Traffic Light Demo](images/working-demo4.jpg)
 ![Traffic Light Demo](images/working-demo5.jpg)
-![Traffic Light Demo](images/working-demo6.jpg)
+
 ![Traffic Light Demo](images/working-demo7.jpg)
 ![Traffic Light Demo](images/working-demo8.jpg)
 ![Traffic Light Demo](images/working-demo9.jpg)
