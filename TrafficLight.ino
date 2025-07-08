@@ -12,7 +12,7 @@ int Green=8;
 
 int Red=10;
 
-// Define your LED pins (replace with your actual pin numbers)
+// Define  LED pins 
 //const int Orange = 2;
 //const int Green = 3;
 //const int Red = 4;
