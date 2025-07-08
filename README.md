@@ -3,7 +3,16 @@ Basic traffic light simulation using Arduino
 
 # Arduino Traffic Light System
 
-![Traffic Light Demo](images/working-demo.gif)
+![Traffic Light Demo](images/working-demo1.jpg)
+![Traffic Light Demo](images/working-demo2.jpg)
+![Traffic Light Demo](images/working-demo3.jpg)
+![Traffic Light Demo](images/working-demo4.jpg)
+![Traffic Light Demo](images/working-demo5.jpg)
+![Traffic Light Demo](images/working-demo6.jpg)
+![Traffic Light Demo](images/working-demo7.jpg)
+![Traffic Light Demo](images/working-demo8.jpg)
+![Traffic Light Demo](images/working-demo9.jpg)
+![Traffic Light Demo](images/working-demo10.jpg)
 
 A basic traffic light simulation using Arduino Uno. This project demonstrates the fundamental operation of traffic lights with timed transitions between red, orange (amber), and green states.
 
@@ -21,7 +30,7 @@ A basic traffic light simulation using Arduino Uno. This project demonstrates th
 - Jumper wires
 
 ## Circuit Diagram
-![Circuit Diagram](images/circuit-diagram.png)
+![Circuit Diagram](images/circuit-diagram.jpg)
 
 ## Installation & Setup
 
